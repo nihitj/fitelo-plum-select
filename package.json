@@ -1,0 +1,19 @@
+{
+  "name": "fitelo-plum-select",
+  "version": "1.0.0",
+  "description": "GLP-1 Weight Loss Program · Plum Select",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nihitj/fitelo-plum-select.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
